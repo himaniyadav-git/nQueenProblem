@@ -130,12 +130,14 @@ Constraint Satisfaction Problems (CSP)
 2D Arrays
 Algorithm Design
 State Space Search
+
 🎯 Future Improvements
 Print all possible solutions.
 Optimize using bit masking.
 Visualize the board using Java Swing or JavaFX.
 Accept board size (N) as user input.
 Display execution time and performance statistics.
+
 👨‍💻 Author
 
 Himani Yadav
