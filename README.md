@@ -142,4 +142,4 @@ Display execution time and performance statistics.
 
 Himani Yadav
 
-This project was created to understand the Backtracking technique through the classic N-Queens Problem, one of the most popular recursion and constraint satisfaction problems in computer science.
+This project was created to understand the Backtracking technique through the classic N-Queens Problem, one of the most popular recursion problem and constraint satisfaction problems in computer science.
